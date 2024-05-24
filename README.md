@@ -1,4 +1,4 @@
-# Pr-cticaUnidad15-RicardoTroyano
+# PracticaUnidad15-RicardoTroyano
 En este apartado muestro un poco el proceso que he llevado a cabo para esta practica.
 
 Archivos del proyecto:
