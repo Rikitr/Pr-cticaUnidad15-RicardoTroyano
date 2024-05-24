@@ -24,3 +24,10 @@ Deserializador:
 Serializador:
 
 ![image](https://github.com/Rikitr/Pr-cticaUnidad15-RicardoTroyano/assets/145496835/0d081a96-ac75-4d61-8f7a-d085f78de657)
+
+AÑADO COOKIES:
+
+(debajo del codigo de index.jsp)
+![image](https://github.com/Rikitr/PracticaUnidad15-RicardoTroyano/assets/145496835/b1bc3d13-e771-4ce7-b8ab-2464abd53782)
+
+
