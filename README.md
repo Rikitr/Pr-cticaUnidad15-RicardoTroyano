@@ -30,4 +30,9 @@ AÑADO COOKIES:
 (debajo del codigo de index.jsp)
 ![image](https://github.com/Rikitr/PracticaUnidad15-RicardoTroyano/assets/145496835/b1bc3d13-e771-4ce7-b8ab-2464abd53782)
 
+LA PAGINA LUCE ASI:
+
+![image](https://github.com/Rikitr/PracticaUnidad15-RicardoTroyano/assets/145496835/fa57b0aa-d408-47b8-97cc-7f70232ae61b)
+
+
 
